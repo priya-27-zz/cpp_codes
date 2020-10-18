@@ -4,8 +4,8 @@ int i,j,t,smax,maxindex,m,n;
 int maxi;
 int main()
 {
-	cin>>t;
-	while(t--)
+	cin>>tum;
+	while(tum--)
 	{
 		cin>>n>>m;
 		int arr[n][m], dp[n][m];
