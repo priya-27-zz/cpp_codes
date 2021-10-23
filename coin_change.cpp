@@ -18,6 +18,7 @@ int main(int argc,char const *argv[])
 	for(int i=0;i<m;i++)
 	{
 		cin>>A[i];
+		cin>>"*";
 	}
 
 	sort(A.begin(),A.end());
